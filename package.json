@@ -1,0 +1,40 @@
+{
+  "name": "claude-code-launcher",
+  "version": "1.0.0",
+  "description": "A beautiful, interactive terminal-based project launcher for Claude Code",
+  "main": "launcher.js",
+  "bin": {
+    "claude-launcher": "./code"
+  },
+  "scripts": {
+    "start": "node launcher.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "launcher",
+    "terminal",
+    "tui",
+    "project-manager",
+    "developer-tools"
+  ],
+  "author": "aspera.so@proton.me",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idomanteu/claude-code-launcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idomanteu/claude-code-launcher/issues"
+  },
+  "homepage": "https://github.com/idomanteu/claude-code-launcher#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "preferGlobal": true
+}

@@ -2,6 +2,10 @@
 
 Terminal-based project launcher for [Claude Code](https://claude.ai/code). Navigate your GitHub projects with arrow keys and search.
 
+Cd-ing into your repository and starting claude from there is annoying. This is intended to solve that. Simply run `code` in your terminal and select your project.
+
+Intended for mac, and for my very specific workflow.
+
 ## Screenshot
 
 ![Claude Code Launcher Screenshot](screenshot.png)
